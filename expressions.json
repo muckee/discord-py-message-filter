@@ -1,0 +1,12 @@
+{
+    "expressions": [
+        {
+            "expression": "free.*mint",
+            "type": "regex"
+        },
+        {
+            "expression": "launch",
+            "type": "string"
+        }
+    ]
+}
