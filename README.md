@@ -11,6 +11,11 @@ Install dotenv: python -m pip install python-dotenv
 
 Clone application and cd into directory
 
+```
+$: git clone https://github.com/muckee/discord-py-message-filter.git
+$: cd discord-py-message-filter
+```
+
 Copy .env.sample to .env
 
 Step 3) Visit the discord developer portal to create a bot, store token in .env file, replace all other environment variables with production values
@@ -27,4 +32,4 @@ Step 5) Generate URL to invite the bot to your server. Enable the 'bot' scope an
 
 Step 6) Invite the bot to your server by visiting the URL.
 
-Step 7) On your server, make the bot run in the background by issuing the command `python main.py &` (or use nohup) from the project root directory.
+Step 7) On your server, make the bot run in the background by issuing the command `python main.py &` (or use nohup) from the project root directory
