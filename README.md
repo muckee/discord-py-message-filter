@@ -10,13 +10,8 @@
 [![EPL-2.0 License][license-shield]][license-url]
 
 
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/muckee/discord-py-message-filter">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Discord Python Message Filter</h3>
 
