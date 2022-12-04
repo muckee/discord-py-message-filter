@@ -204,7 +204,7 @@ If this library has helped you to make a bag, please consider making a donation 
 [issues-shield]: https://img.shields.io/github/issues/muckee/discord-py-message-filter.svg?style=for-the-badge
 [issues-url]: https://github.com/muckee/discord-py-message-filter/issues
 [license-shield]: https://img.shields.io/github/license/muckee/discord-py-message-filter.svg?style=for-the-badge
-[license-url]: https://github.com/muckee/discord-py-message-filter/blob/master/LICENSE.txt
+[license-url]: https://github.com/muckee/discord-py-message-filter/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/github/pipenv/locked/python-version/muckee/discord-py-message-filter
 [Python-url]: https://www.python.org/
